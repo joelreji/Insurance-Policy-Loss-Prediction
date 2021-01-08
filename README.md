@@ -16,4 +16,4 @@ Portfolios are a collection of policies with varying sizes, loss ratios, and sam
 4. **Modeling_traindata_only.ipynb:** builds various models on the training data only to find the best matching model. Here are some models tried: Linear Regression, Ridge Cross Validation, Lasso Cross Validation, XGBoost etc.
 5. **Modeling.ipynb:** takes the best model from the train data set and apply them and run a Root Mean Squred Error comparison on the testing set. Builds kaggle submission.
 
-The final model built was built using Support Vector Regression, which won first place on the Kaggle competition! 
+The final model was built using Support Vector Regression, which won first place on the Kaggle competition! 
