@@ -1,6 +1,8 @@
 # Insurance-Policy-Loss-Prediction
 Insurance Policy Loss Ratio Prediction based on policy sets.
 
+*This was a school assignment so I cannot share the datset or the final model.*
+
 These notebooks outline the data processing steps used to predict loss ratios of varying policy "portfolios".
 
 Loss ratio is the number of policies in a portfolio that has losses.
